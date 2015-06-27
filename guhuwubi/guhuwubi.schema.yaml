@@ -4,12 +4,12 @@
 schema:
   schema_id: guhuwubi
   name: "孤狐五笔"
-  version: “1.06a”
+  version: "1.06b"
   author:
     - 发明人 王永民先生
   description: |
     孤狐新世纪五笔
-    基于孤狐五笔 1.06a码表生成
+    基于孤狐五笔 1.06b码表生成
     敲 z 键进入拼音反查
   dependencies:
     - pinyin_simp
